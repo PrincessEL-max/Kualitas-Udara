@@ -151,7 +151,7 @@ with tab_predict:
         "Tanggal acuan (\"hari ini\")", value=max_date,
         min_value=min_valid_date, max_value=max_date,
     )
-    ref_date = pd.Timestamp(ref_date)
+    ref_date = pd.Timestamp(ref_date).tz_localize("Asia/Jakarta")
 
     features = compute_features(station_df, ref_date)
 
