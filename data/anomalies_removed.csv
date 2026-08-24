@@ -1,0 +1,5 @@
+location_id,location_name,latitude,longitude,date,value,parameter,reason
+8637,Jakarta Central,-6.182536,106.834235,2023-06-12 00:00:00+07:00,246.0,pm25,Tidak dikonfirmasi stasiun tetangga; diduga sensor glitch
+8637,Jakarta Central,-6.182536,106.834235,2023-07-24 00:00:00+07:00,545.0,pm25,Tidak dikonfirmasi stasiun tetangga; diduga sensor glitch
+8637,Jakarta Central,-6.182536,106.834235,2024-08-05 00:00:00+07:00,515.0,pm25,Tidak dikonfirmasi stasiun tetangga; diduga sensor glitch
+8637,Jakarta Central,-6.182536,106.834235,2024-08-07 00:00:00+07:00,522.0,pm25,Tidak dikonfirmasi stasiun tetangga; diduga sensor glitch

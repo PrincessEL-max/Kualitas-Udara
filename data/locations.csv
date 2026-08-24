@@ -1,0 +1,24 @@
+location_id,name,provider,is_monitor,latitude,longitude,parameters
+2537,US Diplomatic Post: Jakarta South,StateAir JakartaSouth,True,-6.236585,106.793335,pm25
+2538,US Diplomatic Post: Jakarta Central,StateAir JakartaCentral,True,-6.182382,106.834094,pm25
+8320,Jakarta South,AirNow,True,-6.236704,106.793244,pm25
+8637,Jakarta Central,AirNow,True,-6.182536,106.834235,"o3, pm25"
+223262,Cilandek,HabitatMap,False,-6.274138909,106.799896471,pm25
+223824,Cilandek,HabitatMap,False,-6.274094251,106.79987099,pm25
+1489107,Cipete,HabitatMap,False,-6.273957945,106.799961515,pm25
+1563313,Qoryah Darussalam,AirGradient,False,-6.3612408,106.8419476,"pm1, pm10, pm25, relativehumidity, temperature, um003"
+1776543,Jihan Fauziah Hamdi ,AirGradient,False,-6.2210686,106.8254998,"pm1, pm10, pm25, relativehumidity, temperature, um003"
+1894639,Jakarta,Clarity,False,-6.09657,106.96135,"pm1, pm10, pm25, temperature"
+2071976,Krukut,AirGradient,False,-6.159382,106.818018,"pm1, pm10, pm25, relativehumidity, temperature, um003"
+3276989,Cipete Jakarta,HabitatMap,False,-6.274033597,106.799931675,pm25
+3280117,Cipete Jakarta,HabitatMap,False,-6.27404826,106.799946763,pm25
+3294802,Cipete Dec,HabitatMap,False,-6.274064257,106.799920946,pm25
+6051931,West Jakarta Mayor Office,Clean Air Catalyst,True,-6.18588,106.737892,"pm25, relativehumidity, temperature, wind_direction, wind_speed"
+6051932,East Jakarta Mayor Office,Clean Air Catalyst,True,-6.214719,106.944138,"bc_370, bc_880, pm25, relativehumidity, temperature, wind_direction, wind_speed"
+6051933,Rusunawa Marunda,Clean Air Catalyst,True,-6.096695,106.960983,"pm25, relativehumidity, temperature, wind_direction, wind_speed"
+6051934,North Jakarta,Clean Air Catalyst,False,-6.153814,106.910934,"bc_370, bc_880"
+6051935,South Jakarta,Clean Air Catalyst,False,-6.356961,106.803696,"bc_370, bc_880"
+6051936,East Jakarta,Clean Air Catalyst,False,-6.288934,106.90918,"bc_370, bc_880"
+6051937,West Jakarta,Clean Air Catalyst,False,-6.207228,106.752571,"bc_370, bc_880"
+6409860,Jakarta home open storage room (19-07-2026 @ 17.01),HabitatMap,False,-6.216456709,106.829211675,pm25
+6455006,BMKG 1,AirGradient,False,-6.1557694,106.8423941,"pm1, pm25, relativehumidity, temperature, um003"
