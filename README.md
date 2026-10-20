@@ -36,12 +36,6 @@ sensor lingkungan, cuma di sini fokusnya ke analisis & prediksi datanya.
    Hasilnya: `data/locations.csv` (daftar stasiun di Jakarta) dan
    `data/pm25_jakarta_daily.csv` (data harian PM2.5 per stasiun).
 
-> **Catatan:** `fetch_data.py` disusun berdasarkan dokumentasi resmi OpenAQ
-> API v3 (docs.openaq.org) per Agustus 2026, tapi belum pernah dites live —
-> sandbox yang dipakai untuk nulis ini gak bisa akses `api.openaq.org`
-> langsung. Kalau pas dijalankan ada error skema respons (field yang gak
-> ketemu, dsb), kirim aja pesan errornya, gampang disesuaikan.
-
 ## Struktur proyek
 
 ```
