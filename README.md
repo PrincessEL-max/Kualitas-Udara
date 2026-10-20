@@ -46,15 +46,3 @@ aqi-jakarta/
 └── README.md
 ```
 
-## Roadmap
-
-- [x] Setup project & script pengambilan data
-- [ ] Jalankan `fetch_data.py`, validasi data yang masuk (jumlah stasiun,
-      rentang tanggal, missing values)
-- [ ] EDA: pola harian/mingguan/musiman, perbandingan antar stasiun,
-      korelasi dengan variabel cuaca
-- [ ] Feature engineering (lag features, hari libur, musim kemarau/hujan)
-- [ ] Model prediksi AQI beberapa hari ke depan (baseline → model lebih kuat)
-- [ ] Dashboard interaktif (Streamlit) dengan rekomendasi actionable
-      (jam/hari aman untuk aktivitas luar ruangan)
-- [ ] Tulis studi kasus singkat untuk ditaruh di portofolio
